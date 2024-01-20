@@ -90,6 +90,14 @@ main {
     margin-top: 47px;
 }
 
+/* Hero section */
+
+#hero {
+    height: 600px;
+    width: 100%;
+    background-color: limegreen;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
