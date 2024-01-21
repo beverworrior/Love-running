@@ -171,6 +171,13 @@ hr {
 
 }
 
+#times div {
+    color: #fafafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+}
+
 
 /* Footer */
 #social-networks {
